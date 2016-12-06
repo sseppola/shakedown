@@ -1,0 +1,22 @@
+{
+  "name": "shakedown",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sseppola/shakedown.git"
+  },
+  "keywords": [
+    "validation"
+  ],
+  "author": "Sindre Seppola <sblix.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sseppola/shakedown/issues"
+  },
+  "homepage": "https://github.com/sseppola/shakedown#readme"
+}
